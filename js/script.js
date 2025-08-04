@@ -5,7 +5,7 @@
     searchAnimDuration = 200;
 
   var startSearchAnim = function(){
-    isSearchAnim = true;
+    isSearchAnim = true11;
   };
 
   var stopSearchAnim = function(callback){
