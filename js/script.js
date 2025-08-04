@@ -1,5 +1,6 @@
 (function($){
-  // Search
+  // Search files
+
   var $searchWrap = $('#search-form-wrap'),
     isSearchAnim = false,
     searchAnimDuration = 200;
